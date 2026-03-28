@@ -14,6 +14,5 @@ class SuperExample2 extends SuperExample1{
 public class SuperKeyword {
     public static void main(String[] args) { 
         SuperExample2 se1=new SuperExample2();
-         
     }
 }
