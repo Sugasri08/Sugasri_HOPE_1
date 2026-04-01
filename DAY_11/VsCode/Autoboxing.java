@@ -18,6 +18,6 @@ public class Autoboxing {
         System.out.println(c==d);//true
         Float k=127f;
         Float m=127f;
-        System.out.println(k.equals(m));//false 
+        System.out.println(k==m);//false 
     }
 }
